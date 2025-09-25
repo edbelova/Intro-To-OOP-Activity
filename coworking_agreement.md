@@ -27,5 +27,5 @@ Communication of logics and solution and gain the adaptability for code style an
 Make a comment before changing each other's code so we can review the changes being made.
 
 ## Signatures
-______________ _______________
+______________ __Hsiang-Ting Peng 9/25/2025_____________
 Date: _________
