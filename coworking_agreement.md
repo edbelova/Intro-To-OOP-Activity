@@ -12,6 +12,8 @@ Hsiang-ting: Accountability and mutual respect with efforts, time and sharing of
 
 Kate Belova: Laptop, Liveshare, Zoom, Times
 
+Geetha - Access to shared documentation and resources, Liveshare
+
 
 ## Collaboration vs. Individual Work Expectations
 *Clarify your collaboration expectations - does your group want to write code together all of the time? Or divide work to do independently, then come together to share accomplishments? What tools and technologies can help your collaboration?*
@@ -20,6 +22,8 @@ Kate Belova: Laptop, Liveshare, Zoom, Times
 Hsiang-ting: Work on together!
 
 Kate Belova: Work on together!
+
+Geetha: Work on together
 
 
 ## Learning Style
@@ -30,6 +34,8 @@ Hsiang-ting: We are using Liveshare to discuss and share insights together.
 
 Ekaterina Belova: I usually start by reading the README to understand the project’s purpose and requirements, then review the main code, tests etc. I like to note the requirements as comments in the functions I plan to write and clearly define the inputs and outputs first.
 
+Geetha: Read the problem statement and discuss the logic. Include and feedback and suggestion from teammates.
+
 
 ## Preferred Feedback Style
 *How does each team member best receive feedback?*
@@ -38,6 +44,8 @@ Ekaterina Belova: I usually start by reading the README to understand the projec
 Hsiang-ting: Messaging on slack or having huddle as soon as possible. live share or zoom.
 
 Ekaterina Belova: I prefer to receive feedback after I’ve finished or implemented something, rather than during the process. If there are several points to cover, I’d like to discuss them all at once. I value the chance to learn from my own mistakes, and getting feedback afterward gives me the opportunity to discover and reflect before making improvements.
+
+Geetha: I prefer feedback that is clear, constructive, and timely, with specific suggestions I can use to improve. I will try to include examples or suggestions we can act on, not just what went wrong.
 
 
 ## One Team Communication Skill to Improve
@@ -49,6 +57,8 @@ Hsiang-ting: Communication of logics and solution and gain the adaptability for 
 
 Ekaterina Belova: I’d like to improve how I talk about and explain my code to others, including breaking down tasks and sharing them when pairing. I also want to get better at giving and receiving feedback, practice active listening to make sure everyone feels heard, and strengthen my skills in estimating time, planning sprints or tasks, and resolving disagreements constructively.
 
+Geetha : I would like to improve how I explain my logic about solving the code to others.
+
 
 ## Optional: Other agreements
 *Other co-working agreements that were not captured in the above sections.*
@@ -58,8 +68,9 @@ Hsiang-ting: Make a comment before changing each other's code so we can review t
 
 
 Ekaterina Belova: To be respectful of each other’s time and maintain a healthy work–life balance. We’ll give advance notice if we need to adjust our co-working schedule and be mindful of breaks so we can stay focused and productive.
-
+ 
+Geetha :To inform the team before making any changes and respect each others views and suggestions.
 
 ## Signatures
-Ekaterina Belova
+Ekaterina Belova, Geethalekshmi
 Date: 09/25/2025
