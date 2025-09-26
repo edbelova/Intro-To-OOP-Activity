@@ -72,5 +72,9 @@ Ekaterina Belova: To be respectful of each other’s time and maintain a healthy
 Geetha :To inform the team before making any changes and respect each others views and suggestions.
 
 ## Signatures
-Ekaterina Belova, Geethalekshmi
+Hsiang-Ting Peng
+Date: 09/25/2025
+Ekaterina Belova
+Date: 09/25/2025
+Geethalekshmi
 Date: 09/25/2025
