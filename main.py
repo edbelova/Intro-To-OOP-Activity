@@ -21,7 +21,7 @@ print(claire.classes)
 # claire.get_num_classes()  # => 6
 print(claire.get_num_classes())
 
-claire.summary()  # => "Claire is a freshman enrolled in 6 classes"
+print(claire.summary())  # => "Claire is a freshman enrolled in 6 classes"
 
 # function
 print(get_student_with_more_classes(claire, samara))  # => samara

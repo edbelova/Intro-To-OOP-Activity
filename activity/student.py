@@ -12,4 +12,4 @@ class Student:
         return len(self.classes)
     
     def summary(self):
-        print(f"{self.name} is a {self.grade} enrolled in {self.get_num_classes()} classes")
+        return f"{self.name} is a {self.grade} enrolled in {self.get_num_classes()} classes"
