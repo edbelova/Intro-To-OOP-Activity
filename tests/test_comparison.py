@@ -8,7 +8,7 @@ def test_compare_numbers():
     # Act
     most_classes_student = get_student_with_more_classes(hsiang_ting, geetha)
     # Assert
-    assert most_classes_student == geetha
+    assert most_classes_student is geetha
 
 def test_compare_numbers_tie():
     # Arrange
@@ -17,7 +17,7 @@ def test_compare_numbers_tie():
     # Act
     most_classes_student = get_student_with_more_classes(hsiang_ting, geetha)
     # Assert
-    assert most_classes_student == hsiang_ting
+    assert most_classes_student is hsiang_ting
 
 def test_compare_numbers_with_no_classes_for_one_student():
     # Arrange
@@ -26,4 +26,4 @@ def test_compare_numbers_with_no_classes_for_one_student():
     # Act
     most_classes_student = get_student_with_more_classes(hsiang_ting, geetha)
     # Assert
-    assert most_classes_student == geetha
+    assert most_classes_student is geetha
